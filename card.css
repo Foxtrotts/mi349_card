@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(194, 186, 204, 0.911);
+    background-color: rgb(184, 184, 184);
     font-family: salaria;
     color: white;
 }
@@ -19,7 +19,7 @@ h2 {
 }
 
 .card {
-    background-image: linear-gradient(to bottom, rgba(64,61,228,1), rgba(135,61,228,0));
+    background-image: linear-gradient(to bottom, rgba(64,61,228,1), rgba(135,61,228,.3));
     border-radius: 15px;
     margin: 0 auto;
     width: 400px;
